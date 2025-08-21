@@ -1,7 +1,7 @@
 name: Test PAT Push
 
 on:
-  workflow_dispatch:  # allows you to run manually
+  workflow_dispatch:  # run manually from Actions tab
 
 jobs:
   test:
@@ -14,6 +14,16 @@ jobs:
         run: |
           echo "Test run at $(date)" > pat-test.txt
 
+      - name: Debug GH_PAT
+        run: |
+          if [ -z "${{ secrets.GH_PAT }}" ]; then
+            echo "❌ GH_PAT is EMPTY"
+            exit 1
+          else
+            echo "✅ GH_PAT is set, length: ${#{{ secrets.GH_PAT }}}"
+            echo "${{ secrets.GH_PAT }}" | cut -c1-7
+          fi
+
       - name: Commit & Push using PAT
         env:
           GH_PAT: ${{ secrets.GH_PAT }}
@@ -24,28 +34,3 @@ jobs:
           git commit -m "PAT test commit" || echo "no changes to commit"
           git remote set-url origin https://Karan2007May:${GH_PAT}@github.com/Karan2007May/Karan2007May.git
           git push origin main
-
-      - name: Debug secret length
-        env:
-          GH_PAT: ${{ secrets.GH_PAT }}
-        run: |
-          if [ -z "$GH_PAT" ]; then
-            echo "❌ GH_PAT is empty (not set correctly)"
-            exit 1
-          else
-            echo "✅ GH_PAT is set, length: ${#GH_PAT}"
-          fi
-
-                - name: Debug secret
-        env:
-          GH_PAT: ${{ secrets.GH_PAT }}
-        run: |
-          if [ -z "$GH_PAT" ]; then
-            echo "❌ GH_PAT is EMPTY"
-            exit 1
-          else
-            echo "✅ GH_PAT is set, length: ${#GH_PAT}"
-            echo "${GH_PAT:0:4}********************"
-          fi
-
-
