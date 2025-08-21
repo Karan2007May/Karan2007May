@@ -2,11 +2,11 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 * * * *"   # ⏰ Runs every hour (you can switch to daily later)
-  push:                   # Runs whenever you push changes to the repo
+    - cron: "0 * * * *"   # ⏰ Runs every hour (switch to daily later if you want)
+  push:
     branches:
       - main
-  workflow_dispatch:      # Allows manual trigger from Actions tab
+  workflow_dispatch:
 
 jobs:
   build:
@@ -23,7 +23,9 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-            - name: Push Snake to Output Branch
+      - name: Push Snake to Output Branch
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}
         run: |
           git config user.name "Karan Gattani"
           git config user.email "karangattani07@gmail.com"
@@ -31,11 +33,12 @@ jobs:
           cp -r dist/* .
           git add .
           git commit -m "update snake animation (output branch)" || echo "no changes to commit"
-          git remote set-url origin https://Karan2007May:${{ secrets.GH_PAT }}@github.com/Karan2007May/Karan2007May.git
+          git remote set-url origin https://Karan2007May:${GH_PAT}@github.com/Karan2007May/Karan2007May.git
           git push --force origin output
 
-
-           - name: Update README on Main
+      - name: Update README on Main
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}
         run: |
           git fetch origin main
           git checkout main
@@ -44,5 +47,5 @@ jobs:
           cp dist/github-contribution-grid-snake-dark.svg assets/
           git add assets/
           git commit -m "update snake animation (README auto-sync)" || echo "no changes to commit"
-          git remote set-url origin https://Karan2007May:${{ secrets.GH_PAT }}@github.com/Karan2007May/Karan2007May.git
+          git remote set-url origin https://Karan2007May:${GH_PAT}@github.com/Karan2007May/Karan2007May.git
           git push origin main
