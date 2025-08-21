@@ -15,13 +15,16 @@ jobs:
           echo "Test run at $(date)" > pat-test.txt
 
       - name: Debug GH_PAT
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}
         run: |
-          if [ -z "${{ secrets.GH_PAT }}" ]; then
+          if [ -z "$GH_PAT" ]; then
             echo "❌ GH_PAT is EMPTY"
             exit 1
           else
-            echo "✅ GH_PAT is set, length: ${#{{ secrets.GH_PAT }}}"
-            echo "${{ secrets.GH_PAT }}" | cut -c1-7
+            echo "✅ GH_PAT is set"
+            echo "Length: ${#GH_PAT}"
+            echo "Starts with: ${GH_PAT:0:4}"
           fi
 
       - name: Commit & Push using PAT
