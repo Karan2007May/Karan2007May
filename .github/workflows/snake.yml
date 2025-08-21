@@ -2,7 +2,7 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # Runs every day at midnight UTC
+    - cron: "0 * * * *"   # ⏰ Runs every hour (for now)
   push:                   # Runs whenever you push changes to the repo
     branches:
       - main
