@@ -23,18 +23,19 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push Snake to Output Branch
-        env:
-          GH_PAT: ${{ secrets.GH_PAT }}
-        run: |
-          git config user.name "Karan Gattani"
-          git config user.email "karangattani07@gmail.com"
-          git checkout -b output || git checkout output
-          cp -r dist/* .
-          git add .
-          git commit -m "update snake animation (output branch)" || echo "no changes to commit"
-          git remote set-url origin https://Karan2007May:${GH_PAT}@github.com/Karan2007May/Karan2007May.git
-          git push --force origin output
+  - name: Push Snake to Output Branch
+     env:
+       GH_PAT: ${{ secrets.GH_PAT }}
+     run: |
+       git config user.name "Karan Gattani"
+       git config user.email "karangattani07@gmail.com"
+       git checkout -b output || git checkout output
+       cp -r dist/* .
+       git add .
+       git commit -m "update snake animation (output branch)" || echo "no changes to commit"
+       git remote set-url origin https://Karan2007May:${GH_PAT}@github.com/Karan2007May/Karan2007May.git
+       git push --force origin output
+
 
       - name: Update README on Main
         env:
