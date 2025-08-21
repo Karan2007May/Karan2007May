@@ -1,0 +1,26 @@
+name: Test PAT Push
+
+on:
+  workflow_dispatch:  # allows you to run manually
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Make test file
+        run: |
+          echo "Test run at $(date)" > pat-test.txt
+
+      - name: Commit & Push using PAT
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}
+        run: |
+          git config user.name "Karan Gattani"
+          git config user.email "karangattani07@gmail.com"
+          git add pat-test.txt
+          git commit -m "PAT test commit" || echo "no changes to commit"
+          git remote set-url origin https://Karan2007May:${GH_PAT}@github.com/Karan2007May/Karan2007May.git
+          git push origin main
