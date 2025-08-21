@@ -36,3 +36,16 @@ jobs:
             echo "✅ GH_PAT is set, length: ${#GH_PAT}"
           fi
 
+                - name: Debug secret
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}
+        run: |
+          if [ -z "$GH_PAT" ]; then
+            echo "❌ GH_PAT is EMPTY"
+            exit 1
+          else
+            echo "✅ GH_PAT is set, length: ${#GH_PAT}"
+            echo "${GH_PAT:0:4}********************"
+          fi
+
+
