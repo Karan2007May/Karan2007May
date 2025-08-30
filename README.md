@@ -1,6 +1,6 @@
 <!-- Typing SVG Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=FF39A9&center=true&vCenter=true&width=650&lines=Hi+👋,+I'm+Karan+Gattani;Aspiring+Data+Analyst;SQL+%7C+Python+%7C+Excel;Power+BI+%7C+Tableau;Turning+Data+into+Actionable+Insights">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=FF39A9&center=true&vCenter=true&width=650&lines=Hi+👋,+I'm+Karan+Gattani;Aspiring+Data+Analyst;SQL+%7C+Python+%7C+Excel;Power+BI+%7C+Tableau;Turning+Data+into+Actionable+Insights"/>
 </div>
 
 ---
@@ -9,7 +9,10 @@
 - 🎯 Aspiring **Data Analyst** passionate about turning data into actionable insights  
 - 🛠 Skilled in **SQL, Python, Excel, Power BI, Tableau**  
 - 📈 Currently progressing through my **Data Analytics Roadmap**  
-- 📝 *Motto:* *"Data without context is noise. Data with insights is power."*  
+- 📝 *Motto:* *"Data without context is noise. Data with insights is power."*
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=Karan2007May&label=Profile%20Views&color=0e75b6&style=flat" alt="Karan2007May" />
+</p>
 
 ---
 
@@ -42,12 +45,19 @@ Here are some of my favorite projects:
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Karan2007May&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Karan2007May&theme=radical" height="160"/>
-</p>  
+  <img src="https://github-readme-stats.vercel.app/api?username=Karan2007May&show_icons=true&theme=radical&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Karan2007May&theme=radical&hide_border=true" height="160"/>
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karan2007May&layout=compact&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karan2007May&layout=compact&theme=radical&hide_border=true" height="160"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Karan2007May&theme=radical&no-frame=true&margin-w=5&margin-h=5"/>
 </p>
 
 ---
@@ -55,6 +65,13 @@ Here are some of my favorite projects:
 ## 🐍 Contribution Snake  
 <p align="center">
   <img src="https://github.com/Karan2007May/Karan2007May/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
+---
+
+## 📈 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Karan2007May&theme=radical&bg_color=0D1117&hide_border=true" alt="GitHub Activity Graph"/>
 </p>
 
 ---
@@ -68,7 +85,7 @@ Here are some of my favorite projects:
 ---
 
 ## ✨ Fun Fact  
-*I see datasets the way others see stories – waiting to be told 📊✨*  
+💡 *I see datasets the way others see stories – waiting to be told 📊✨*  
 
 ---
 
