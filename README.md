@@ -81,16 +81,6 @@
 
 </div>
 
-
----
-
-## 📖 Data Storytelling  
-I believe every dataset has a story. My workflow:  
-1️⃣ Collect & clean messy data  
-2️⃣ Transform into structured insights with SQL/Python  
-3️⃣ Visualize trends with Power BI/Tableau  
-4️⃣ Deliver clear business recommendations  
-
 ---
 
 ## 📌 Key Stats  
@@ -108,6 +98,15 @@ I believe every dataset has a story. My workflow:
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Karan2007May&theme=radical&no-frame=true&margin-w=5&margin-h=5"/>
 </p>
+
+---
+
+## 📖 Data Storytelling  
+I believe every dataset has a story. My workflow:  
+1️⃣ Collect & clean messy data  
+2️⃣ Transform into structured insights with SQL/Python  
+3️⃣ Visualize trends with Power BI/Tableau  
+4️⃣ Deliver clear business recommendations  
 
 ---
 
