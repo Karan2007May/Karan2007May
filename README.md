@@ -16,12 +16,12 @@
 
 ---
 
-## 💻 Tech Stack  
+## 🛠️ Tools & Technologies  
 <p align="center">
-  <img src="https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -29,17 +29,34 @@
 
 ---
 
-## 🌟 Featured Projects  
-Here are some of my favorite projects:  
+## 📂 Featured Projects  
 
-- 🛒 **[E-commerce Sales Analysis (SQL)](https://github.com/Karan2007May)** → Revenue, customer behavior, product trends  
-- 🏥 **[Hospital Patient Analysis (SQL)](https://github.com/Karan2007May)** → Healthcare admissions & treatments insights  
-- 📊 **[HR Analytics Dashboard (Power BI)](https://github.com/Karan2007May)** → Performance, attrition & hiring trends  
-- 📈 **[Excel Sales Dashboard](https://github.com/Karan2007May)** → Automated reporting with pivot tables & charts  
-- 🗺 **[Superstore Analytics (Tableau)](https://github.com/Karan2007May)** → Regional sales & profit visualization  
-- 🐍 **[Python EDA Toolkit](https://github.com/Karan2007May)** → Exploratory data analysis with Pandas & Matplotlib  
-- 🧹 **[Data Cleaning Toolkit (Python)](https://github.com/Karan2007May)** → Preprocessing messy datasets  
-- 🔮 **[Customer Churn Prediction](https://github.com/Karan2007May)** → Identifying retention risks with ML  
+🔹 **[E-commerce Sales Analysis (SQL)](link)**  
+📊 Querying revenue, customer segments, and seasonal trends  
+
+🔹 **[Hospital Patient Analysis (SQL)](link)**  
+🏥 Healthcare data insights – admissions, treatments & outcomes  
+
+🔹 **[HR Analytics Dashboard (Power BI)](link)**  
+📈 Employee attrition, hiring patterns & performance  
+
+🔹 **[Customer Churn Prediction (Python)](link)**  
+🤖 ML-based retention analysis using classification models  
+
+🔹 **[Excel Sales Dashboard](https://github.com/Karan2007May)**  
+📈 Automated reporting with pivot tables & charts
+ 
+  
+🔹 **[Superstore Analytics (Tableau)](https://github.com/Karan2007May)**  
+🗺 Regional sales & profit visualization
+
+
+🔹 **[Python EDA Toolkit](https://github.com/Karan2007May)**  
+🐍 Exploratory data analysis with Pandas & Matplotlib
+
+
+🔹 **[Data Cleaning Toolkit (Python)](https://github.com/Karan2007May)**  
+🧹 Preprocessing messy datasets
 
 ---
 
@@ -52,6 +69,26 @@ Here are some of my favorite projects:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karan2007May&layout=compact&theme=radical&hide_border=true" height="160"/>
 </p>
+
+---
+
+## 📖 Data Storytelling  
+I believe every dataset has a story. My workflow:  
+1️⃣ Collect & clean messy data  
+2️⃣ Transform into structured insights with SQL/Python  
+3️⃣ Visualize trends with Power BI/Tableau  
+4️⃣ Deliver clear business recommendations  
+
+---
+
+## 📌 Key Stats  
+<p align="center">
+  <img src="https://img.shields.io/badge/Queries_Executed-1,500+-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Datasets_Analyzed-50+-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Dashboards_Built-20+-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ML_Models_Trained-5-purple?style=for-the-badge"/>
+</p>
+
 
 ---
 
@@ -85,7 +122,7 @@ Here are some of my favorite projects:
 ---
 
 ## ✨ Fun Fact  
-💡 *I see datasets the way others see stories – waiting to be told 📊✨*  
+💡 *“I don’t just analyze data — I translate it into stories that drive business decisions 📊✨"*  
 
 ---
 
