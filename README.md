@@ -66,9 +66,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Karan2007May&theme=radical&hide_border=true" height="160"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karan2007May&layout=compact&theme=radical&hide_border=true" height="160"/>
-</p>
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Karan2007May&layout=pie&theme=radical)
 
 ---
 
@@ -124,6 +122,3 @@ I believe every dataset has a story. My workflow:
 ## ✨ Fun Fact  
 💡 *“I don’t just analyze data — I translate it into stories that drive business decisions 📊✨"*  
 
----
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Karan2007May)
