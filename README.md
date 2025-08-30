@@ -16,16 +16,20 @@
 
 ---
 
-## 🛠️ Tools & Technologies  
-<p align="center">
-  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
+### 🛠 Tools & Technologies  
+
+<div align="center">
+
+| SQL | Python | Excel |
+|-----|--------|-------|
+| ![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=database&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow) | ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) |
+
+| Power BI | Tableau | GitHub |
+|----------|---------|--------|
+| ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) | ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
+
+</div>
+
 
 ---
 
@@ -66,7 +70,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Karan2007May&theme=radical&hide_border=true" height="160"/>
 </p>
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Karan2007May&layout=pie&theme=radical)
+<div align="center">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Karan2007May&layout=pie&theme=radical)
+
+</div>
+
 
 ---
 
