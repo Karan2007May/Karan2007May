@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Hey+👋+I'm+Karan+Gattani;Aspiring+Data+Analyst;SQL+%7C+Python+%7C+Excel;Power+BI+%7C+Tableau;Turning+Data+into+Insights">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=3000&pause=1000&color=FF39A9&center=true&vCenter=true&width=800&lines=Hey+👋+I'm+Karan+Gattani;Aspiring+Data+Analyst;SQL+%7C+Python+%7C+Excel;Power+BI+%7C+Tableau;Turning+Data+into+Insights">
   </h1>
 </div>
 
@@ -11,7 +11,7 @@
   <p>
     📊 Aspiring <b>Data Analyst</b> passionate about transforming raw data into meaningful insights.<br>
     🛠 Skilled in <b>SQL, Python, Excel, Power BI & Tableau</b>.<br>
-    🌱 On a journey through my <b>Data Analytics Roadmap</b>.<br>
+    🌱 Currently working through my <b>Data Analytics Roadmap</b>.<br>
     💡 Motto: <i>"Data without context is noise. Data with insights is power."</i>
   </p>
 </div>
@@ -35,14 +35,14 @@
   <h2>📌 Featured Projects</h2>
 </div>
 
-- 🛒 **[E-commerce Sales Analysis (SQL)](#)** → Revenue, customer behavior, product trends  
-- 🏥 **[Hospital Patient Analytics (SQL)](#)** → Healthcare data insights on admissions & treatments  
-- 📊 **[Power BI HR Dashboard](#)** → Employee performance, attrition & hiring trends  
-- 📈 **[Excel Sales Dashboard](#)** → Automated reports with pivot tables & charts  
-- 📉 **[Tableau Superstore Analysis](#)** → Regional sales & profit visualization  
-- 🐼 **[Python Exploratory Data Analysis](#)** → EDA on Kaggle datasets using Pandas & Matplotlib  
-- 🤖 **[Data Cleaning Toolkit (Python)](#)** → Scripts for preprocessing messy datasets  
-- 🔮 **[Customer Churn Analysis](#)** → Identifying retention risks with data  
+- 🛒 [**E-commerce Sales Analysis (SQL)**](https://github.com/Karan2007May/ecommerce-sql) → Revenue, customer behavior, product trends  
+- 🏥 [**Hospital Patient Analytics (SQL)**](https://github.com/Karan2007May/hospital-sql) → Healthcare data insights on admissions & treatments  
+- 📊 [**Power BI HR Dashboard**](https://github.com/Karan2007May/hr-powerbi) → Employee performance, attrition & hiring trends  
+- 📈 [**Excel Sales Dashboard**](https://github.com/Karan2007May/excel-sales-dashboard) → Automated reports with pivot tables & charts  
+- 📉 [**Tableau Superstore Analysis**](https://github.com/Karan2007May/tableau-superstore) → Regional sales & profit visualization  
+- 🐼 [**Python Exploratory Data Analysis**](https://github.com/Karan2007May/python-eda) → EDA on Kaggle datasets using Pandas & Matplotlib  
+- 🤖 [**Data Cleaning Toolkit (Python)**](https://github.com/Karan2007May/data-cleaning) → Scripts for preprocessing messy datasets  
+- 🔮 [**Customer Churn Analysis**](https://github.com/Karan2007May/customer-churn) → Identifying retention risks with data  
 
 ---
 
@@ -54,6 +54,14 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karan2007May&layout=compact&theme=radical" height="160"/>
+</div>
+
+---
+
+<div align="center">
+  <h2>🐍 Watch my contributions get eaten by a snake!</h2>
+  <img src="https://raw.githubusercontent.com/Karan2007May/Karan2007May/output/github-contribution-grid-snake-dark.svg" alt="snake animation dark"/>
+  <img src="https://raw.githubusercontent.com/Karan2007May/Karan2007May/output/github-contribution-grid-snake.svg" alt="snake animation light"/>
 </div>
 
 ---
@@ -73,14 +81,6 @@
 <div align="center">
   <h3>💡 Fun Fact</h3>
   <p>I see datasets the way others see stories – waiting to be told 📖✨</p>
+  <br>
+  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Karan2007May)
 </div>
-
----
-
-<div align="center">
-  <h2>🐍 Watch my contributions get eaten by a snake!</h2>
-  <img src="https://raw.githubusercontent.com/Karan2007May/Karan2007May/output/github-contribution-grid-snake-dark.svg" alt="snake animation dark"/>
-  <img src="https://raw.githubusercontent.com/Karan2007May/Karan2007May/output/github-contribution-grid-snake.svg" alt="snake animation light"/>
-</div>
-
-
