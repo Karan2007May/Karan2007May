@@ -3,8 +3,11 @@
   <img src="https://raw.githubusercontent.com/Karan2007May/Karan2007May/main/assets/banner.png" alt="Karan Gattani Banner"/>
 </p>
 
-# Hi 👋, I'm Karan Gattani  
-**Data Analyst | Python · SQL · Excel · Power BI · Tableau**
+<!-- Typing SVG Header -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=FF39A9&center=true&vCenter=true&width=650&lines=Hi+👋,+I'm+Karan+Gattani;Aspiring+Data+Analyst;SQL+%7C+Python+%7C+Excel;Power+BI+%7C+Tableau;Turning+Data+into+Actionable+Insights"/>
+</div>
+
 
 ---
 
@@ -54,7 +57,7 @@
 
 ## 📈 Contribution Graph  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Karan2007May&theme=drakula" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Karan2007May&theme=github" alt="Contribution Graph"/>
 </p>
 
 ---
