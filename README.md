@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Karan Gattani — Data Analyst Banner" width="100%" />
+</p>
+
+
 <!-- Typing SVG Header -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=FF39A9&center=true&vCenter=true&width=650&lines=Hi+👋,+I'm+Karan+Gattani;Aspiring+Data+Analyst;SQL+%7C+Python+%7C+Excel;Power+BI+%7C+Tableau;Turning+Data+into+Actionable+Insights"/>
@@ -24,9 +29,9 @@
 |-----|--------|-------|
 | ![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=database&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow) | ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) |
 
-| Power BI | GitHub | Tableau |
+| Power BI | Tableau |
 |----------|---------|--------|
-| ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) | ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) |
+| ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) | ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) |
 
 </div>
 
