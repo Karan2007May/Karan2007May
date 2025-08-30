@@ -1,75 +1,63 @@
-<!-- Typing SVG Header -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=FF39A9&center=true&vCenter=true&width=650&lines=Hi+👋,+I'm+Karan+Gattani;Aspiring+Data+Analyst;SQL+%7C+Python+%7C+Excel;+Power+BI+%7C+Tableau;Turning+Data+into+Actionable+Insights">
-</div>
+<!-- Profile Header -->
+<h1 align="center">👋 Hi, I'm Karan Gattani</h1>
+<h3 align="center">📊 Data Analyst | Python | SQL | Power BI | Tableau | Excel</h3>
 
 ---
 
-## 🚀 About Me  
-- 🎯 Aspiring **Data Analyst** passionate about turning data into actionable insights  
-- 🛠 Skilled in **SQL, Python, Excel, Power BI, Tableau**  
-- 📈 Currently progressing through my **Data Analytics Roadmap**  
-- 📝 *Motto:* *"Data without context is noise. Data with insights is power."*  
+## 🚀 About Me
+- 🔍 Turning **raw data into insights** and **insights into action**
+- 🧑‍💻 Skilled in **Python, SQL, Excel, Tableau, Power BI**
+- 📈 Passionate about **KPI tracking, dashboards, and data storytelling**
+- 🎯 Fun fact: I once analyzed my Spotify history to find my most productive songs 🎶📊
 
 ---
 
-## 💻 Tech Stack  
+## 📊 GitHub Analytics Dashboard
+
 <p align="center">
-  <img src="https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Karan2007May&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karan2007May&layout=donut&theme=radical" alt="Top Languages" height="160"/>
 </p>
 
 ---
 
-## 🌟 Featured Projects  
-Here are some of my favorite projects:  
-
-- 🛒 **[E-commerce Sales Analysis (SQL)](https://github.com/Karan2007May)** → Revenue, customer behavior, product trends  
-- 🏥 **[Hospital Patient Analysis (SQL)](https://github.com/Karan2007May)** → Healthcare admissions & treatments insights  
-- 📊 **[HR Analytics Dashboard (Power BI)](https://github.com/Karan2007May)** → Performance, attrition & hiring trends  
-- 📈 **[Excel Sales Dashboard](https://github.com/Karan2007May)** → Automated reporting with pivot tables & charts  
-- 🗺 **[Superstore Analytics (Tableau)](https://github.com/Karan2007May)** → Regional sales & profit visualization  
-- 🐍 **[Python EDA Toolkit](https://github.com/Karan2007May)** → Exploratory data analysis with Pandas & Matplotlib  
-- 🧹 **[Data Cleaning Toolkit (Python)](https://github.com/Karan2007May)** → Preprocessing messy datasets  
-- 🔮 **[Customer Churn Prediction](https://github.com/Karan2007May)** → Identifying retention risks with ML  
+## 🛠️ Tech Stack
+- **Languages**: Python 🐍 | SQL | DAX
+- **Visualization**: Tableau | Power BI | Excel Dashboards
+- **Databases**: MySQL | PostgreSQL | SQLite
+- **Other Tools**: Git | Jupyter | VS Code | Pandas | NumPy
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Karan2007May&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Karan2007May&theme=radical" height="160"/>
-</p>  
+## 📈 Featured Projects
+🔗 Explore my projects → [Portfolio Website](https://Karan2007May.github.io)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karan2007May&layout=compact&theme=radical" height="160"/>
-</p>
-
----
-
-## 🐍 Contribution Snake  
-<p align="center">
-  <img src="https://github.com/Karan2007May/Karan2007May/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
+| Project | Description | Tools |
+|---------|-------------|-------|
+| 📦 Sales Dashboard | Interactive dashboard tracking KPIs | Power BI, Excel |
+| 🏪 Retail Insights | SQL queries to uncover retail trends | SQL |
+| 🎵 Spotify Analysis | Analyzed personal music habits | Python, Pandas |
+| 🛒 Market Basket Analysis | Association rules & insights | Python (mlxtend) |
 
 ---
 
-## 🤝 Connect with Me  
-<p align="center">
-  <a href="https://www.linkedin.com/in/karangattani"><img src="https://img.shields.io/badge/LinkedIn-KaranGattani-blue?style=for-the-badge&logo=linkedin"/></a>
-  <a href="mailto:karangattani07@gmail.com"><img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+## 🧩 Weekly SQL Puzzle
+Can you solve this? 👇  
 
----
+```sql
+SELECT MAX(salary) 
+FROM employees 
+WHERE salary < (SELECT MAX(salary) FROM employees);
+💡 Hint: This finds the second highest salary.
 
-## ✨ Fun Fact  
-*I see datasets the way others see stories – waiting to be told 📊✨*  
+🎶 Currently Analyzing
+<p align="center"> <img src="https://spotify-github-profile.vercel.app/api/view?uid=31s3gfw26bydz2ctg2lspxkucqvy&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing"/> </p>
+📊 KPI Tracker
+Profile Visitors
 
----
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Karan2007May)
+✨ Fun Data Fact
+90% of the world’s data was created in the last 2 years.
+
+🤝 Let’s Connect
+<p align="center"> <a href="https://www.linkedin.com/in/karangattani"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a> <a href="mailto:karangattani07@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" /></a> <a href="https://Karan2007May.github.io"><img src="https://img.shields.io/badge/Portfolio-000?logo=githubpages&logoColor=white" /></a> <a href="https://github.com/Karan2007May"><img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" /></a> </p>
