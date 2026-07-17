@@ -46,10 +46,14 @@
 ## 🚀 Featured Projects  
 </div>
 
-| Project | What I Did | Impact |
+| Project | Category | Overview |
 |---|---|---|
-| **ProcureFlow** — Vendor Procurement & Approval System | Authored BRDs, functional specifications, and workflow diagrams | Automated quotations, approvals & POs across **6 modules** |
-| **SpaceHub** — Coworking Management Platform | Defined business requirements, user stories, and workflow diagrams | Digitized booking, memberships & visitor management across **5 modules** |
+| 🏭 **ProcureFlow** — Vendor Procurement & Approval System | Automation | BRDs, functional specs, and workflow diagrams automating vendor quotations, approvals & POs across **6 modules** |
+| 🏢 **SpaceHub** — Coworking Management Platform | SaaS | Business requirements, user stories, and workflow diagrams digitizing booking, memberships & visitor management across **5 modules** |
+| 🏥 **CareFlow** — Home Healthcare CRM | CRM | Requirements and workflow design for managing patient intake, caregiver scheduling, and care-plan tracking |
+| 📞 **ServiceFlow** — Customer Case Management System | Salesforce Concepts | Case lifecycle mapping and requirement docs for ticket routing, SLAs, and agent workload management |
+| 📦 **LogiSight** — Logistics Intelligence Dashboard | Data | KPI and dashboard requirements for shipment tracking, route performance, and delivery analytics |
+| 🛡️ **InsureAI** — Intelligent Claims Processing Platform | AI | Workflow and functional requirements for automated claims intake, document verification, and fraud flagging |
 
 🔗 *Check pinned repos for more — project links to be added.*
 
