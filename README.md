@@ -44,8 +44,8 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Karan2007May&show_icons=true&theme=radical" alt="GitHub Stats" height="165" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karan2007May&layout=compact&theme=radical" alt="Top Languages" height="165" width="400"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=Karan2007May&show_icons=true&theme=radical" alt="GitHub Stats" height="165" width="400"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Karan2007May&layout=compact&theme=radical" alt="Top Languages" height="165" width="400"/>
 </p>
 
 ---
@@ -54,6 +54,8 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Karan2007May&theme=radical&no-frame=true&row=1&column=5" alt="Trophies"/>
 </p>
+<!-- If trophies still don't render, this community-run mirror is a common fallback:
+https://github-profile-trophy-dun.vercel.app/?username=Karan2007May&theme=radical&no-frame=true&row=1&column=5 -->
 
 ---
 
