@@ -5,38 +5,40 @@
 
 <!-- Typing SVG Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=FF39A9&center=true&vCenter=true&width=650&lines=Hi+👋,+I'm+Karan+Gattani;Aspiring+Data+Analyst;SQL+%7C+Python+%7C+Excel;Power+BI+%7C+Tableau;Turning+Data+into+Actionable+Insights"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=FF39A9&center=true&vCenter=true&width=650&lines=Hi+👋,+I'm+Karan+Gattani;Business+Analyst;AI+Automation+%7C+CRM+%7C+SaaS;Requirements+%7C+Agile+%7C+SDLC;Turning+Requirements+into+Solutions"/>
 </div>
-
 
 ---
 
 ## 🧑‍💻 About Me  
-- 📊 Aspiring **Data Analyst** passionate about turning raw data into actionable insights.  
-- 🛠️ Skilled in **Python, SQL, Excel, Power BI, and Tableau**.  
-- 📈 Focused on **data storytelling** and delivering impactful dashboards.  
-- 🌱 Continuously learning and sharing my projects on GitHub.  
+- 💼 **Business Analyst** delivering digital transformation, CRM, AI automation, and SaaS solutions for startups and enterprise clients.  
+- 📝 Skilled in **requirements engineering, BRDs, FRDs, user stories, workflow design, and UAT** across the SDLC.  
+- 🤝 Experienced in **stakeholder management, Agile/Scrum delivery, and cross-functional collaboration**.  
+- 📊 Strong technical foundation in **SQL, Power BI, Postman, and Figma**, with growing expertise in **AI-assisted analysis and rapid MVP prototyping**.  
+- 🌱 Continuously learning — currently pursuing a **B.Sc. in Data Science and Applications (IIT Madras)**.  
 
 ---
 
 ## 🛠️ Tools & Technologies  
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Lucidchart-F5A623?style=for-the-badge&logo=lucid&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git%20%26%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 </p>
 
 ---
 
 ## 🚀 Featured Projects  
-- [**E-commerce Sales Analysis**](https://github.com/Karan2007May/Ecommerce-Sales-Analysis) – Revenue trends & KPI insights  
-- [**Customer Churn Prediction**](https://github.com/Karan2007May/Customer-Churn-Prediction) – Retention-focused ML model  
-- [**Interactive Dashboards**](https://github.com/Karan2007May/Interactive-Dashboards) – Power BI & Tableau business KPIs  
-- [**SQL Data Exploration**](https://github.com/Karan2007May/SQL-Data-Exploration) – Optimized queries for deep insights  
+- **ProcureFlow – Vendor Procurement & Approval System** – BRDs, functional specifications, and workflow diagrams automating vendor quotations, approvals, and purchase orders across 6 procurement modules.  
+- **SpaceHub – Coworking Management Platform** – Business requirements, user stories, and workflow diagrams for digitizing workspace booking, memberships, meeting rooms, and visitor management across 5 platform modules.  
 
-🔗 *Check pinned repos for more!*
+🔗 *Check pinned repos for more — project links to be added.*
 
 ---
 
@@ -80,4 +82,4 @@
 ---
 
 ## ✨ Fun Fact  
-*"I don’t just crunch numbers — I turn them into stories that drive business decisions 📊🚀"*
+*"I don't just gather requirements — I turn them into solutions that drive business outcomes 💼🚀"*
