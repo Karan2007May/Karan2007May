@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Karan2007May/Karan2007May/main/assets/banner.png" alt="Karan Gattani Banner"/>
+  <img src="https://raw.githubusercontent.com/Karan2007May/Karan2007May/main/assets/banner.svg" alt="Karan Gattani Banner"/>
 </p>
 
 <!-- Typing SVG Header -->
