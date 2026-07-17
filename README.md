@@ -44,18 +44,17 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Karan2007May&show_icons=true&theme=radical" alt="GitHub Stats" width="400"/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Karan2007May&layout=compact&theme=radical" alt="Top Languages" width="400"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=Karan2007May&show_icons=true&theme=radical" alt="GitHub Stats" width="480"/>
+  <br/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Karan2007May&layout=compact&theme=radical&card_width=480&langs_count=8" alt="Top Languages" width="480"/>
 </p>
 
 ---
 
-## 🏆 GitHub Trophies  
+## 🏆 Achievements  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Karan2007May&theme=radical&no-frame=true&row=1&column=5" alt="Trophies"/>
+  <img src="https://raw.githubusercontent.com/Karan2007May/Karan2007May/main/assets/achievements.svg" alt="Achievements" width="900"/>
 </p>
-<!-- If trophies still don't render, this community-run mirror is a common fallback:
-https://github-profile-trophy-dun.vercel.app/?username=Karan2007May&theme=radical&no-frame=true&row=1&column=5 -->
 
 ---
 
