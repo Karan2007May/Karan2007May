@@ -33,16 +33,8 @@
 ## 🛠️ Tools & Technologies  
 </div>
 
-<p>
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Lucidchart-F5A623?style=for-the-badge&logo=lucid&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git%20%26%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Karan2007May/Karan2007May/main/assets/skills.svg" alt="Skills" width="1000"/>
 </p>
 
 <p align="center">
@@ -67,27 +59,28 @@
 
 <div align="center">
 
-## 📊 GitHub Stats  
+## 📊 Dashboard  
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-stats-extended.vercel.app/api?username=Karan2007May&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="100%"/>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Karan2007May&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" width="100%"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://raw.githubusercontent.com/Karan2007May/Karan2007May/main/assets/streak-stats.svg" alt="GitHub Streak" width="100%"/>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://raw.githubusercontent.com/Karan2007May/Karan2007May/main/assets/achievements.svg" alt="Achievements" width="100%"/>
+    </td>
+  </tr>
+</table>
+
 </div>
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Karan2007May&show_icons=true&theme=radical" alt="GitHub Stats" width="480"/>
-  <br/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Karan2007May&layout=compact&theme=radical&card_width=480&langs_count=8" alt="Top Languages" width="480"/>
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=Karan2007May&theme=radical&hide_border=true" alt="GitHub Streak" width="480"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF39A9,100:7C3AED&height=4&width=1200" width="100%"/>
-</p>
-
-<div align="center">
-
-## 🏆 Achievements  
-</div>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Karan2007May/Karan2007May/main/assets/achievements.svg" alt="Achievements" width="900"/>
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF39A9,100:7C3AED&height=4&width=1200" width="100%"/>
